@@ -35,6 +35,7 @@ namespace UnityGame
         {
             this.model = model;
             this.destroyedByUser = destroyedByUser;
+            this.instanceId = instanceId;
         }
     }
 }
